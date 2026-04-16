@@ -1,0 +1,12 @@
+Stack adalah struktur data linier yang menerapkan
+prinsip LIFO (Last In First Out), di mana elemen terakhir yang
+dimasukkan akan menjadi elemen pertama yang dikeluarkan.
+Operasi dasar Stack:
+- Push untuk menambahkan data
+- Pop untuk menghapus data teratas
+- Peek untuk melihat data teratas
+- isEmpty untuk mengecek stack kosong
+- isFull untuk mengecek stack penuh (array)
+Stack dapat diimplementasikan menggunakan:
+- Array (bersifat statis)
+- Linked List (bersifat dinamis)
