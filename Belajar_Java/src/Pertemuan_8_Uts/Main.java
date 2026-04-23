@@ -1,4 +1,4 @@
-package Uts;
+package Pertemuan_8_Uts;
 
 import java.util.Scanner;
 
